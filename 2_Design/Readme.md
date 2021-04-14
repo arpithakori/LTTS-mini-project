@@ -13,8 +13,8 @@
 
 * Level Zero DFD:
   
-![LevelZero](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/usecase.png)
+![LevelZero](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/levelzero.png)
 
 * Level One DFD:
   
-![LevelOne](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/usecase.png)
+![LevelOne](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/levelone.png)
