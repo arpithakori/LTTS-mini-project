@@ -24,7 +24,7 @@ Hostel management systems has a set of benefits. Here are few of them:
 * Local storage of records
 * Mess management
   
-![Description](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/system.png)
+![Description](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/design.png)
 
 ### Explanation:
 * Hostel Management Application have few inbuilt features like:
@@ -41,7 +41,7 @@ Hostel management systems has a set of benefits. Here are few of them:
 
 ## SWOT ANALYSIS
 
-![SWOT Analysis](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/swot.png)
+![SWOT Analysis](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/swot.png)
 
 # 4W&#39;s and 1&#39;H
 

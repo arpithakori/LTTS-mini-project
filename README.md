@@ -1,6 +1,6 @@
 # LTTS-mini-project
 # SDLC Activity Based Learning
-![Banner](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/banner.png)
+![Banner](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/banner.png)
 
 Visit [Pages for Report -optional](using github.io option)
 

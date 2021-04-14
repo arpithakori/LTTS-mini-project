@@ -3,11 +3,11 @@
 ## High Level Design 
 * Architecture Design :
 
-![Architecture](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/hld_1.png)
+![Architecture](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/architecture.png)
 
 * Usecase Diagram :
 
-![UsecaseDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/Usecasehdl.jpg)
+![UsecaseDiagram](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/usecase.png)
 
 ## Low Level Design 
 
