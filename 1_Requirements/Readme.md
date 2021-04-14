@@ -78,8 +78,8 @@ Hostel management systems has a set of benefits. Here are few of them:
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-| LR01 | New record shall be added by providing all the asked information and the student id should be unique else student record should not be accepted. | HR01 | TBD-S1 |
-| LR02 | Reading student data should be possible by printing all the records available | HR02 | TBD-S1 |
-| LR03 | If user searches for an invalid student ID "No Record Found" message should be displayed | HR02 | TBD-S1 |
-| LR05 | User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file | HR05 | TBD-S1 |
-| LR06 | If opening the file fails, then the system shloud prompt the message "Unable to access file" and should not end the program execution | HR05, HR06, HR07, HR08 | TBD-S1 |
+| LR01 | New record shall be added by providing all the asked information and the student id should be unique else student record should not be accepted. | -- | TBD-S1 |
+| LR02 | Reading student data should be possible by printing all the records available | --- | TBD-S1 |
+| LR03 | If user searches for an invalid student ID "No Record Found" message should be displayed | --- | TBD-S1 |
+| LR05 | User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file | --- | TBD-S1 |
+| LR06 | If opening the file fails, then the system shloud prompt the message "Unable to access file" and should not end the program execution | --- | TBD-S1 |
