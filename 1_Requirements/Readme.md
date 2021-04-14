@@ -64,22 +64,21 @@ Hostel management systems has a set of benefits. Here are few of them:
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | User shall be able to add new student record | Techincal | TBD-S1 | 
-| HR02 | User shall be able to read a student record | Techincal | TBD-S1 |
-| HR03 | User shall be able to read all the students record | Techincal | TBD-S1 |
-| HR04 | User Shall be able to read the number of rooms available | Technical | TBD-S1
-| HR06 | User shall be able to read the number of beds available | Technical | TBD-S1
-| HR06 | User shall be able to allot rooms and bed to the student | Scenario | TBD-S1   
-| HR05 | User shall be able to save records in a file | Techincal | TBD-S1 |
-| HR06 | User shall be able to read data from a file | Techincal | TBD-S1 |
+| HR01 | User shall be able to add new student record | Techincal | Implemented | 
+| HR02 | User shall be able to read a student record | Techincal | Implemented |
+| HR03 | User shall be able to read all the students record | Techincal | Implemented |
+| HR04 | User Shall be able to read the number of rooms available | Technical | TBD
+| HR06 | User shall be able to read the number of beds available | Technical | TBD
+| HR06 | User shall be able to allot rooms and bed to the student | Scenario | TBD   
+| HR05 | User shall be able to save records in a file | Techincal | Implemented |
+| HR06 | User shall be able to read data from a file | Techincal | Implemented |
 
 
 ##  Low level Requirements:
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-| LR01 | New record shall be added by providing all the asked information and the student id should be unique else student record should not be accepted. | -- | TBD-S1 |
-| LR02 | Reading student data should be possible by printing all the records available | --- | TBD-S1 |
-| LR03 | If user searches for an invalid student ID "No Record Found" message should be displayed | --- | TBD-S1 |
-| LR05 | User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file | --- | TBD-S1 |
-| LR06 | If opening the file fails, then the system shloud prompt the message "Unable to access file" and should not end the program execution | --- | TBD-S1 |
+| LR01 | New record shall be added by providing all the asked information and the student id should be unique else student record should not be accepted. | HR01 | Implemented |
+| LR02 | Reading student data should be possible by printing all the records available | HR02 | Implemented |
+| LR03 | User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file | --- | TBD-S1 |
+| LR04 | If opening the file fails, then the system shloud prompt the message "Unable to access file" and should not end the program execution | --- | TBD-S1 |

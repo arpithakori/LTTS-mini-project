@@ -11,4 +11,10 @@
 
 ## Low Level Design 
 
---- TBD 
+* Level Zero DFD:
+  
+![LevelZero](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/usecase.png)
+
+* Level One DFD:
+  
+![LevelOne](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/usecase.png)
