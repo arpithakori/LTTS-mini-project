@@ -2,7 +2,6 @@
 # SDLC Activity Based Learning
 ![Banner](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/banner.png)
 
-Visit [Pages for Report -optional](using github.io option)
 
 Codacy | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
