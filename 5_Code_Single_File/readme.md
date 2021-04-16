@@ -1,0 +1,1 @@
+This code is executed successfully in a single file
