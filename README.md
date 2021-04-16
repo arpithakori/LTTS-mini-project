@@ -2,6 +2,7 @@
 # SDLC Activity Based Learning
 ![Banner](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/banner.png)
 
+Image courtesy for banner : GOOGLE Images(https://www.paatham.in/hostel-management.php)
 
 Codacy |
 *********************************************************
