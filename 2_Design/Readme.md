@@ -3,7 +3,7 @@
 ## High Level Design 
 * Architecture Design :
 
-![Architecture](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/architecture.png)
+![Architecture](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/architecture1.png)
 
 * Usecase Diagram :
 
