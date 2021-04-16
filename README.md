@@ -3,8 +3,7 @@
 ![Banner](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/banner.png)
 
 
-Codacy | Code Quality | Unity | [Git Inspector](using github.io option)
-|---------|--------------|-----------|------------------
+Codacy |
 *********************************************************
 <!--[![C/C++ CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml)|[![Static Check](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-cppcheck.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-cppcheck.yml) | To be added| [![git inspector CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-gitinspector.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/arc-gitinspector.yml)-->
 
