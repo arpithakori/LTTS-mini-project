@@ -14,8 +14,8 @@ struct student{
 	char studentName[25];
 	int age;
 	int roomno;
-	int parentContact;
-	int studentContact;
+	char parentContact[15];
+	char studentContact[15];
 	char studentNative[20];
 	struct Mess studentMessSubscription;
 }s[100];
@@ -28,12 +28,12 @@ void registerStudent(){
         scanf("%s",s[count].studentName);
         printf("\n Enter age: ");
         scanf("%d",&s[count].age);
-        printf("\n Enter room number \n");
+        printf("\n Enter room number: ");
         scanf("%d",&s[count].roomno);
         printf("\n Enter student contact number: ");
-        scanf("%d",&s[count].studentContact);
+        scanf("%s",s[count].studentContact);
         printf("\n Enter parent contact number: ");
-        scanf("%d",&s[count].parentContact);
+        scanf("%s",s[count].parentContact);
         printf("\n Enter the Native place of the student: ");
         scanf("%s",s[count].studentNative);
         int messChoice;
@@ -63,8 +63,8 @@ void displayMessStudent(struct student *s)
         printf("\n Student ID = %d",s[k].studentId);
         printf("\n Student Name = %s",s[k].studentName);
         printf("\n Student age = %d",s[k].age);
-        printf("\n Student contact number= %d",s[k].studentContact);
-        printf("\n Parent contact number = %d",s[k].parentContact);
+        printf("\n Student contact number= %s",s[k].studentContact);
+        printf("\n Parent contact number = %s",s[k].parentContact);
         printf("\n Student native place = %s",s[k].studentNative);
         printf("\n Number of months = %d",s[k].studentMessSubscription.monthsOfMessSubscription);
         }
@@ -78,8 +78,8 @@ void displayStudent(struct student *s){
        printf("\n Student ID = %d",s[i].studentId);
         printf("\n Student Name = %s",s[i].studentName);
         printf("\n Student age = %d",s[i].age);
-        printf("\n Student contact number= %d",s[i].studentContact);
-        printf("\n Parent contact number = %d",s[i].parentContact);
+        printf("\n Student contact number = %s",s[i].studentContact);
+        printf("\n Parent contact number = %s",s[i].parentContact);
         printf("\n Student native place = %s",s[i].studentNative);
         if(s[i].studentMessSubscription.subscriptionToMess){
             printf("\n Subscription to mess = Yes");
@@ -196,7 +196,7 @@ int main(){
     while(flag){
 
     printf("\n Enter choice \n");
-    printf("\n1-> Register student details \n2-> Display student details \n3 -> Calculate Bill\n4 -> Display the room and bed availability\n5 -> Display Fee Structure\n6 -> Display Mess Registered Students\n7 -> Exit\n");
+    printf("\n1-> Register student \n2-> Display student details \n3 -> Calculate Bill\n4 -> Display Fee structure\n5 -> Display Mess registered students\n6 -> Display the available rooms\n7 -> Exit\n");
     scanf("%d",&ch);
     switch(ch){
             case 1:registerStudent();
@@ -217,7 +217,7 @@ int main(){
                     printf("room alloted");
                     }
                     else{
-                    printf("room is full pls opt a different room");
+                    printf("room is full please opt for different room");
                     }
                     break;
             case 7: flag=0;
