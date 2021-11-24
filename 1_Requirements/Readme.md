@@ -24,8 +24,6 @@ The existing online hostel management system costs approximately $9.00 per featu
   
 ![Description](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/design.png)
 
-![Description](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/ezgif.com-gif-maker.gif)
-
 ### Explanation:
 * Hostel Management Application have few inbuilt features like:
     - Registration of student
