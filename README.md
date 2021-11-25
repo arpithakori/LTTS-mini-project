@@ -28,7 +28,13 @@ Codacy |
 		testImplementation 'junit:junit:4.13'
 	}
 ```
-
+3. For using justbar from a remote repository in separate application, add the below dependencies in entry/build.gradle file.
+```groovy
+	dependencies {
+		implementation 'dev.applibgroup:justbar:1.0.0'
+		testImplementation 'junit:junit:4.13'
+	}
+```
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
