@@ -11,6 +11,24 @@ Codacy |
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ed40a383ed3b44c691a5f6f29168f6a2)](https://www.codacy.com/gh/arpithakori/LTTS-mini-project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arpithakori/LTTS-mini-project&amp;utm_campaign=Badge_Grade)
 
+## Dependency
+1. For using justbar module in sample app, include the source code and add the below dependencies in entry/build.gradle to generate hap/support.har.
+```groovy
+	dependencies {
+        implementation fileTree(dir: 'libs', include: ['*.jar', '*.har'])
+        testImplementation 'junit:junit:4.13'
+        ohosTestImplementation 'com.huawei.ohos.testkit:runner:1.0.0.200'
+        implementation project(':justbar')
+    }
+```
+2. For using justbar in separate application using har file, add the har file in the entry/libs folder and add the dependencies in entry/build.gradle file.
+```groovy
+	dependencies {
+		implementation fileTree(dir: 'libs', include: ['*.har'])
+		testImplementation 'junit:junit:4.13'
+	}
+```
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
