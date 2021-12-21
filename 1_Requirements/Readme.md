@@ -39,6 +39,8 @@ The existing online hostel management system costs approximately $9.00 per featu
 
 ## SWOT ANALYSIS
 
+<img src="1_Requirements/passwordinputview.gif" width="400">
+
 ![SWOT Analysis](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/swot.png)
 
 # 4W&#39;s and 1&#39;H
